@@ -1,0 +1,12 @@
+.heroContainer{
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f7;
+}
+.heroTitle{
+    color: #333;
+    margin-bottom: 20px;
+}
+.heroButton{
+    background-color: rgb(0, 130, 130);
+}
